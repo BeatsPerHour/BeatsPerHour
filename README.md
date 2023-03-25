@@ -8,3 +8,11 @@ I believe that the Internet is a powerful tool that should be used for good and 
 ### Is this illegal?
 
 Theoretically it is, but because the things the scammers do is illegal too it should be fine.
+
+### Contact
+
+__E-Mail:__ bperhour@outlook.com
+
+__Twitter:__ @beats_hour
+
+__Discord:__ BeatsPerHour *#1628*
