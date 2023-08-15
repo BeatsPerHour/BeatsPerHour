@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=AE0000&width=435&lines=Hello+World!;I'm+BeatsPerHour;or+just+Beats+if+you+want)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=100&color=A91919&multiline=true&repeat=false&width=500&height=110&lines=Hello+World!;I'm+BeatsPerHour;(or+just+Beats+if+you+want);Hobby+developer+hunting+crypto+scammers)](https://git.io/typing-svg)
 ---
 Scamming scammers
 
