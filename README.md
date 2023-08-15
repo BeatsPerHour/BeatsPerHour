@@ -7,4 +7,4 @@ __E-Mail:__ bperhour@outlook.com
 
 __Twitter:__ @beats_hour
 
-__Discord:__ BeatsPerHour *#1628*
+__Discord:__ BeatsPerHour *@beatsperhour*
