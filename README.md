@@ -3,8 +3,8 @@
 Scamming scammers
 
 ### Contact
-__E-Mail:__ bperhour@outlook.com
+*__E-Mail:__* bperhour@outlook.com
 
-__Twitter:__ @beats_hour
+*__Twitter__ (or __X__ if you want):* @beats_hour
 
-__Discord:__ BeatsPerHour *@beatsperhour*
+*__Discord:__* BeatsPerHour *@beatsperhour*
