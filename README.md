@@ -30,3 +30,5 @@ If you're passionate about online security and want to contribute to this import
 You can reach me via email at [bperhour@outlook.com](mailto:bperhour@outlook.com) if you have questions or suggestions related to online security.
 
 Or you can DM me via Twitter (or X if you want): <a href='https://twitter.com/beats_hour'>@beats_hour</a> or Discord: BeatsPerHour @beatsperhour
+
+Let's work together to make the internet a safer place for everyone. Together, we can make a difference in the fight against online scams!
