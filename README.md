@@ -14,7 +14,7 @@ I'm a passionate hobby developer with a mission to make the internet a safer pla
 
 My process involves:
 
-1. **Identification**: I'm constantly scanning YouTube and the web to locate scam and malicious activities. To make this easier I'm working together with <a href='https://github.com/TachLaif'>TechLife</a>, a friend of me, to develop a program that can easily identify scam livestreams. Currently, we have a pretty good system in place and are continuously working on improvements and bug fixes.
+1. **Identification**: I'm constantly scanning YouTube and the web to locate scam and malicious activities. To make this easier I'm working together with a friend of me, to develop a program that can easily identify scam livestreams. Currently, we have a pretty good system in place and are continuously working on improvements and bug fixes.
 2. **Reporting**: Reporting scam livestreams to YouTube, fraudulent websites to hosting providers, domain registrars, and other relevant entities to ensure quick action thus minimizing any potential financial loss.
 3. **Crypto Address Tracking**: If crypto addresses are involved in scams, I report them on <a href='https://www.chainabuse.com/profile/BeatsPerHour'>chainabuse [BeatsPerHour]</a> to warn potential victims.
 
